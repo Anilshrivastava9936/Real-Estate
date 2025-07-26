@@ -37,37 +37,37 @@ export const projectsData = [
     {
       title: "Skyline Haven",
       price: "₹2,50,000",
-      location: "California",
+      location: "Mumbai",
       image: project_img_1
     },
     {
       title: "Vista Verde",
       price: "₹2,50,000",
-      location: "San Francisco",
+      location: "Pune",
       image: project_img_2
     },
     {
       title: "Serenity Suites",
       price: "₹2,50,000",
-      location: "Chicago",
+      location: "Chennai",
       image: project_img_3
     },
     {
       title: "Central Square",
       price: "₹2,50,000",
-      location: "Los Angeles",
+      location: "Hydrabad",
       image: project_img_4
     },
     {
       title: "Vista Verde",
       price: "₹2,50,000",
-      location: "San Francisco",
+      location: "Jammbu",
       image: project_img_5
     },
     {
       title: "Serenity Suites",
       price: "₹2,50,000",
-      location: "Chicago",
+      location: "Pani Path",
       image: project_img_6
     },
     
